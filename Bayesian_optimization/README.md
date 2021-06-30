@@ -1,7 +1,7 @@
-Bay_opt_analysis contains the code to analyse all proven hyperparameter sets
+- Bay_opt_analysis: Visualization of Bayesian Hyperparameter Optimization.
 
-Bayesian_optimization contains the code use to optimize hyperparameter
+- Bayesian_optimization: Hyperparameter optimizer.
 
-SVRLsTest is useful to prove single points or show plots
+- SVR-LS_percent_Example: An example to test the library
 
-Gplearn_Transform contains the code to obtain matrix variables transformation
+- Gplearn_Transform: Feature engineering thorugh Symbolic Transformation
