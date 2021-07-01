@@ -1,8 +1,9 @@
 # SVR-Least-Square-Percentage
-SVR Least Square with Percentage Error format
 
-- Bayesian Optimization: all files related to hyperparameter optimization
+This repository is a Python implementation of LS SVR based on a percent error metric only using equality constraints, by means of cvxopt as base solver.  
 
-- Library: SVR-LS percentage format library
+-	Bayesian Optimization: all files related to hyperparameter optimization 
 
-- Model_Comparison: Comparison between standard models and presented model
+-	Library: SVR-LS percentage format library
+
+-	Model_Comparison: Comparison between standard models and presented model
