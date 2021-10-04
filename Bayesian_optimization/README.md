@@ -8,4 +8,4 @@
 
 -	SVR-LS_percent_Example: An example to test the library using resulting optimum hyperparameters
 
--	newBoston.csv: Boston Housing dataset with new non-linear features resulting from Symbolic Transformation
+-	newBoston.csv/newDiabetes.csv: Boston Housing/Diabetes dataset with new non-linear features resulting from Symbolic Transformation
