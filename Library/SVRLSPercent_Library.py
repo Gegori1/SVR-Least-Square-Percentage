@@ -143,13 +143,13 @@ class SVR_PerLs:
         # coefficient
         """--Returns--
                 Linear:
-                - weights
-                - intercept
+                - [0] weights
+                - [1] intercept
                 
                 Non-Linear:
-                - dual vector
-                - primal vectors
-                - intercept
+                - [0] dual vector
+                - [1] primal vectors
+                - [2] intercept
         """
     def coef_(self):
         if self.kernel == "linear":
